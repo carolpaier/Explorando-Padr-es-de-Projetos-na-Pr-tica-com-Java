@@ -1,7 +1,6 @@
-# Explorando-Padroes-de-Projetos-na-Pratica-com-Java
-Desafio do Bootcamp Woman Java GFT
+# Desafio do Bootcamp Woman Java GFT
 
-## Explorando Padrões de Projetos na Prática com Java puro:
+### Explorando Padrões de Projetos na Prática com Java puro:
 
 #### Singleton
 #### Strategy
